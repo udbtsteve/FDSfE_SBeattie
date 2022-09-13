@@ -9,17 +9,31 @@ Microgrids are modular, local-scale, and potentially interconnected energy syste
 
 Currently, local energy markets are considered a key approach to sourcing and distribution in systems where generation resources are not directly controllable by power grid operators -- such as in micgrogrids which aim to utilize residential and other independently-owned renewable energy resources. The current 'state of the art' approaches in local energy market design utilize double-sided auction mechanisms to define energy sourcing and distribution -- but these mechanisms in general have recently been shown to be incapable of aligning efficient techno-economic performance with the requirements of emerging energy equity standards for energy infrastructure development and operations. Accordingly, there is a strong and imminent need for the definition of 'market' (sourcing and distribution) mechanisms which can align energy system outcomes with equity standards. But as of yet, no such mechanisms have been clearly demonstrated in the literature. 
 
-> ***A key hypothesis of my thesis project is that there is no inherent trade-off between techno-economic performance requirements and energy equity requirements.***
+> **A general hypothesis of my thesis project is that there is no inherent trade-off between outcome expectations related to energy equity and techno-economic performance**
 
 In other words, that there exists sufficiently-general mechanisms, which may be applied to a sufficiently-diverse range of microgrid operation scenarios, which can simultaneously achieve both sets of requirements consistently, independent of system scale and 'stage' of energy system transition. I intend to construct this 'proof of existence' by presenting and analyzing sufficiently-generalized example mechanisms which satisfy the 'goal alignment' criteria in ways which are practically (spatially, economically, legally, etc) feasible for real-world implementation. If successful, project results can be expected to provide substantial support for the establishment of equity standards for energy infrastructure development and operations, and for further development of community-sourced, owned, and guided solutions to sustainable energy transition.
+
+</br>
+
+***Update: The use of testable examples for mechanisms expected to be 'equitable' (in terms of outcome assessment) allows a more explicitly-testable version of the hypothesis to be formed:***
+
+> **The mechanisms presented, which are defined using techno-economic and equity-based constraints, represent examples of coordination mechanisms (or 'market' mechanisms) for local energy systems which can be expected to ***consistently*** align techno-economic and equity-related expectations (that is, simultaneously satisfy both sets of expectations)**
+
+_If the hypothesis is confirmed, one conclusion may be that there is no inherent trade-off between these sets of outcome expectations for local energy system (LES) coordination mechanisms -- suppoorting the establishment of policy-based regulations regarding mechanism use in real-world LES development, and an extended set of theoretical design requirements for LES mechanism design engineering._
+
+</br>
 
 ## Null Hypothesis
 
 Example local energy 'market' mechanisms fail to consistently satisfy one or more of the considered techno-economic and equity-related performance indicators -- either across time or system operation conditions (e.g. microgrid energy supply-base size, the size of local energy demand, the number of microgrid users, temporal alignment of supply and demand).
 
+</br>
+
 ## Alternate Hypothesis
 
 Example local energy 'market' mechanisms consistently satisfy each of the considered techno-economic and equity-related performance indicators, across time, independent of factors such as microgrid energy supply-base size, the size of local energy demand, the number of microgrid users, and the temporal alignment of supply and demand.
+
+</br>
 
 ## Comments on Experimental Design
 
