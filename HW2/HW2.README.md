@@ -1,4 +1,3 @@
-
 # PUS2022 - HW2 - Research Hypothesis
 
 This part of HW2 is aimed at presenting a research hypothesis relevant to my graduate research.
