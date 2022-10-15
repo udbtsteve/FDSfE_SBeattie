@@ -1,4 +1,4 @@
-*** Hyperparameter tuning methodology for household agents on the LEM-DIS platform... ***
+**Hyperparameter tuning methodology for household agents on the LEM-DIS platform...**
 
 ... Which is a NetLogo-based platform for virtual microgrid energy market simulation and mechanism design impact analysis (described in Beattie et al, 2022). 
 
