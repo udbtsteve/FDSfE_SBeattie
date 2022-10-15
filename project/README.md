@@ -2,6 +2,7 @@
 
 ... Validated against experiment data collected at the University of Delaware Center for Experimental and Applied Economics in April, 2022. (FREC312124)
 
+---------------------------------------------------------------------
 
 LEM-DIS: A NetLogo-based platform for virtual microgrid energy market simulation and mechanism design impact analysis, described in (Beattie et al. 2022).
 
