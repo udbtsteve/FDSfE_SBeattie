@@ -1,6 +1,6 @@
 **Hyperparameter tuning methodology for household agents on the LEM-DIS platform...**
 
-... Validated against experiment data collected at the University of Delaware Center for Experimental and Applied Economics in April, 2022. (FREC312124)
+... Validated against data collected at the University of Delaware Center for Experimental and Applied Economics in April, 2022. (FREC312124)
 
 ---------------------------------------------------------------------
 
